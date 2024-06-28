@@ -22,7 +22,7 @@ Este projeto é uma aplicação web de galeria de astronomia desenvolvida com Dj
 1. Clone o repositório:
 
     ```sh
-    git clone 
+    git clone https://github.com/GuilhermeDevSoftware/Django-Introducao/tree/main
     ```
 
 2. Crie e ative um ambiente virtual:
